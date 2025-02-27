@@ -2,7 +2,7 @@
 
 [![NuxtHub AI Chat](https://github.com/user-attachments/assets/f393167e-7d21-4d7b-bacf-101103c1d093)](https://hub-chat.nuxt.dev)
 
-Demo: <https://d42120bc.llm-hub-play.pages.dev>
+Demo: <https://ec0d53e3.llm-hub-play.pages.dev/>
 
 [![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?template=ai-chat)
 
