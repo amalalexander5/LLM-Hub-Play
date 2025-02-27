@@ -16,7 +16,7 @@
         icon="i-simple-icons-github"
         color="gray"
         variant="ghost"
-        to="https://github.com/ra-jeev/hub-chat"
+        to="https://github.com/amalalexander5/LLM-Hub-Play"
         target="_blank"
       />
       <UButton
